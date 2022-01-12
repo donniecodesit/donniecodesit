@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hey there, the name's Donovan, but I'm also cool with Donnie. 👋☺
+- I'm currently a student taking the Software Engineering Immersion course at Thinkful. 🎓
+- I'm learning JavaScript and Web/Software Development, but I also work on a personal bot project in C#! 🤖
+- Outside of programming, I'm obsessed with pop music and of course, video games. 🎵🎮
+- You can reach me here, on [Twitter](https://twitter.com/donovan_laws), by [Email](mailto:donovanlaws@gmail.com), or on  [LinkedIn](https://www.linkedin.com/in/donovanlaws/). 📧
 
+<img alt="Phoenix Landscape" src="https://imgur.com/uPqUobM.png"/>
 <!--
 **donovanlaws/donovanlaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
