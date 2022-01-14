@@ -1,8 +1,8 @@
 ### Hey there, the name's Donovan, but I'm also cool with Donnie. 👋☺
-- I'm currently a student taking the Software Engineering Immersion course at Thinkful. 🎓
+- A Software Developer who's always learning something new or working on previous knowledge. 🛡
 - I'm learning JavaScript and Web/Software Development, but I also work on a personal bot project in C#! 🤖
 - Outside of programming, I'm obsessed with pop music and of course, video games. 🎵🎮
-- You can reach me here, on [Twitter](https://twitter.com/donovan_laws), by [Email](mailto:donovanlaws@gmail.com), or on  [LinkedIn](https://www.linkedin.com/in/donovanlaws/). 📧
+- You can reach me here, by [Email](mailto:donovanlaws@gmail.com), on [LinkedIn](https://www.linkedin.com/in/donovanlaws/), or on [Twitter](https://twitter.com/donovan_laws). 📧
 
 <img alt="Phoenix Landscape" src="https://imgur.com/uPqUobM.png"/>
 <!--
